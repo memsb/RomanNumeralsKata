@@ -1,0 +1,21 @@
+{
+  "name": "martinbuckley/roman-numerals",
+  "description": "Code Kata for converting roman numerals to decimal",
+  "require": {
+    "phpspec/phpspec": "^3.1"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "memsb",
+      "email": "mbuckley@gmail.com"
+    }
+  ]
+}
